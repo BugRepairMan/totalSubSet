@@ -1,6 +1,6 @@
 # totalSubSet
 
-Give number N, print total sub set.
+Give number N, print total sub set (use a recursive manner).
 
 For example:  
 ./test 4  
